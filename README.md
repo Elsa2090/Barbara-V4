@@ -6,23 +6,23 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=𝗜𝗧𝗦%20𝗕𝗔𝗥𝗕𝗔𝗥𝗔-𝗩𝟰-𝗕𝗨𝗚%20𝗕𝗢𝗧;%20𝗗𝗔𝗡𝗚𝗘𝗥𝗢𝗨𝗦-𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣%20𝗕𝗨𝗚%20𝗕𝗢𝗧;𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗗%20𝗕𝗬%20𝗕𝗥𝗬𝗔𝗡𝗧%20𝗧𝗘𝗖𝗛)
 <p align="center">
 
-## 🌟 `Bot Intro and Features`
-[![BARBARA-BUG-V4]()](https://youtu.be/WcA7GZuaN0A)
+## `Bot Intro and Features`
+[![BARBARA-BUG-V4](https://telegra.ph/file/6b731a8489d85e536832d.jpg)](https://youtu.be/WcA7GZuaN0A)
 
-### ℹ️ **About BRYANT-MD-V2**
-BRYANT-MD-V2 is a versatile Multi-Device WhatsApp bot developed by [BRYANT-MD](https://github.com/Elsa2090). It offers a wide range of features, making it an advanced and user-friendly bot for various purposes.
+### ℹ️ **𝗕𝗔𝗥𝗕𝗔𝗥𝗔-𝗩𝟰 𝗜𝗡𝗙𝗢**
+Barbara-v4 is a versatile Multi-Device bug bot developed by [BRYANT-TECH](https://github.com/Elsa2090). It offers a wide range of features, making it an advanced and user-friendly bot for various purposes.
 
-<p align="center"><img src="https://profile-counter.glitch.me/{BRYANT-MD-V2}/count.svg" alt="BRYANT TECH :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{BARBARA-V4-BUG}/count.svg" alt="BRYANT TECH :: Visitor's Count" /></p>
 
 ### **Bot Statistics**
-![Bot Repository Size](https://img.shields.io/github/repo-size/Elsa2090/Bryant-mdv2?style=for-the-badge)
-![Bot Repository Issues](https://img.shields.io/github/issues/Elsa2090/Bryant-mdv2?style=for-the-badge)
-![Bot Repository Stars](https://img.shields.io/github/stars/Elsa2090/Bryant-mdv2?style=for-the-badge)
-![Bot Repository Forks](https://img.shields.io/github/forks/Elsa2090/Bryant-mdv2?style=for-the-badge)
-![Bot Repository Watchers](https://img.shields.io/github/watchers/Elsa2090/Bryant-mdv2?label=Watchers&style=for-the-badge)
-![Bot Repository Contributors](https://img.shields.io/github/contributors/Elsa2090/Bryant-mdv2?style=for-the-badge)
-![Bot Repository Pull Requests](https://img.shields.io/github/issues-pr/Elsa2090/Bryant-mdv2?style=for-the-badge)
-![Bot Repository License](https://img.shields.io/github/license/Elsa2090/Bryant-mdv2?style=for-the-badge)
+![Bot Repository Size](https://img.shields.io/github/repo-size/Elsa2090/Barbara-v4?style=for-the-badge)
+![Bot Repository Issues](https://img.shields.io/github/issues/Elsa2090/Barbara-v4?style=for-the-badge)
+![Bot Repository Stars](https://img.shields.io/github/stars/Elsa2090/Barbara-v4?style=for-the-badge)
+![Bot Repository Forks](https://img.shields.io/github/forks/Elsa2090/Barbara-v4?style=for-the-badge)
+![Bot Repository Watchers](https://img.shields.io/github/watchers/Elsa2090/Barbara-v4?label=Watchers&style=for-the-badge)
+![Bot Repository Contributors](https://img.shields.io/github/contributors/Elsa2090/Barbara-v4?style=for-the-badge)
+![Bot Repository Pull Requests](https://img.shields.io/github/issues-pr/Elsa2090/Barbara-v4?style=for-the-badge)
+![Bot Repository License](https://img.shields.io/github/license/Elsa2090/Barbara-v4?style=for-the-badge)
 
 ####  
 *BRYANT-MD-V2* - A Advanced Multi Device whatsapp bot Based on *XLICON-V2*
