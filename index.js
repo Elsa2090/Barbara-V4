@@ -79,18 +79,18 @@ const ryoroyko = ryoroykoConnect({
 })
 
     if (usePairingCode && !ryoroyko.authState.creds.registered) {
-    say(`Spider\nV4\n`, {
+    say(`Barbara\nV4\n`, {
         font: 'block',
         align: 'center',
         gradient: [randomcolor, randomcolor]
     })
 
-say(`Create By 𝐆𝐇𝐎𝐒𝐓\n𝖂𝖍𝖆𝖙𝖘𝖆𝖕𝖕 𝕲𝖗𝖔𝖚𝖕 : https://chat.whatsapp.com/KGLFgi82ZBb5wgWxb8j8Wy`, {
+say(`Create By BRYANT\n𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙲𝙷𝙰𝙽𝙽𝙴𝙻: https://whatsapp.com/channel/0029VacpEdXIt5rqKLB9nC1L`, {
   font: 'console',
   align: 'center',
   gradient: [randomcolor, randomcolor]
 })
-    const phoneNumber = await question(`<!> 𝐈𝐍𝐏𝐔𝐓 𝐘𝐎𝐔𝐑 𝐏𝐇𝐎𝐍𝐄 𝐍𝐔𝐌𝐁𝐄𝐑 ❌\n<✓> EXAMPLE : 25476858686\n <+> 𝑤𝑖𝑡𝒉𝑜𝑢𝑡 𝑎 𝑝𝑙𝑢𝑠 : `);
+    const phoneNumber = await question(`<!> 𝐈𝐍𝐏𝐔𝐓 𝐘𝐎𝐔𝐑 𝐏𝐇𝐎𝐍𝐄 𝐍𝐔𝐌𝐁𝐄𝐑 ❌\n<✓> EXAMPLE : 233530729233\n <+> 𝑤𝑖𝑡𝒉𝑜𝑢𝑡 𝑎 𝑝𝑙𝑢𝑠 : `);
    // Request and display the pairing code
    const code = await ryoroyko.requestPairingCode(phoneNumber.trim());
    console.log(color(`[ # ] enter that code into WhatsApp, motherfucker : ${code}`, `${randomcolor}`));
