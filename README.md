@@ -22,15 +22,11 @@ Barbara-v4 is a versatile Multi-Device bug bot developed by [BRYANT-TECH](https:
 ![Bot Repository Watchers](https://img.shields.io/github/watchers/Elsa2090/Barbara-v4?label=Watchers&style=for-the-badge)
 ![Bot Repository Contributors](https://img.shields.io/github/contributors/Elsa2090/Barbara-v4?style=for-the-badge)
 ![Bot Repository Pull Requests](https://img.shields.io/github/issues-pr/Elsa2090/Barbara-v4?style=for-the-badge)
-![Bot Repository License](https://img.shields.io/github/license/Elsa2090/Barbara-v4?style=for-the-badge)
+![Bot Repository License](https://img.shields.io/github/license/Elsa2090/Barbara-v4?style=for-the-badge)*
 
-####  
-*BRYANT-MD-V2* - A Advanced Multi Device whatsapp bot Based on *XLICON-V2*
-
-***
 
 ## ⭐ `Star This Repo`
-If you find BRYANT-MD-V2 helpful, consider giving it a star ⭐ to show your appreciation.
+If you find BARBARA-V4-BOT helpful, consider giving it a star ⭐ to show your appreciation.
 
 Thanks for the star! 🚀
 
@@ -44,18 +40,18 @@ Thanks for the star! 🚀
 | Hidden NSFW Commands             | Access a range of NSFW commands hidden in the bot       | ✅           | 2.0        |
 | Logo Commands                    | Generate logos using specialized commands               | ✅           | 2.0        |
 | Anime Commands                   | Explore anime-related commands and features              | ✅           | 2.0        |
-| Economy Menu                     | Engage in economic activities within the bot            | ✅           | 2.0        |
+| Bug commands                    | Engage in destroying activities activities within the bot            | ✅           | 2.0        |
 | Various Games                    | Enjoy a variety of games within the bot                 | ✅           | 2.0        |
 | Audio/Video Editor Commands      | Edit audio and video files with bot commands            | ✅           | 2.0        |
 
 ## 🛠️ `Installation Methods`
 1. Fork the repo
     <br>
-<a href='https://github.com/Elsa2090/Bryant-mdv2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/Elsa2090/Barbara-v4/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
     <br>
 2. Get Session ID (SERVER 1) NOT WORKING USE THE SECOND ONE
     <br>
-<a href='https://replit.com/@S4SalmanYt/XLICON-V2-PAIRING' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://barbara-session-id.vercel.app' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
     <br>
 2. Get Session ID (SERVER 2)
     <br>
@@ -71,7 +67,7 @@ Thanks for the star! 🚀
 
 2. Now Deploy
     <br>
-<a href='https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FElsa2090%2FBryant-mdv2%3Ftab%3Dreadme-ov-file&template=https%3A%2F%2Fgithub.com%2FElsa2090%2FBryant-mdv2%3Ftab%3Dreadme-ov-file' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>   >CHANGE THE USER NAME ON THE LINK AND DEPLOY
+<a href='https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FElsa2090%2FBarbara-v4%3Ftab%3Dreadme-ov-file&template=https%3A%2F%2Fgithub.com%2FElsa2090%2FBarbara-v4%3Ftab%3Dreadme-ov-file' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>   >CHANGE THE USER NAME ON THE LINK AND DEPLOY
 
 #### DEPLOY TO REPLIT
 
@@ -159,9 +155,9 @@ NOW Deploy👇
 <a href="https://github.com/salmanytofficial"><img src="https://github.com/salmanytofficial.png" width="150" height="150" alt="SALMAN"/></a>
 
 ## `OWNER` 
-<a href="https://github.com/salmanytofficial"><img src="https://github.com/Elsa2090.png" width="250" height="250" alt="BRYANT-TECH"/></a>
+<a href="https://github.com/Elsa2090"><img src="https://github.com/Elsa2090.png" width="250" height="250" alt="BRYANT-TECH"/></a>
   
-**BRYANT-MD-V2** - By `bryant tech`
+**BARBARA-V4** - By `bryant tech`
 <br>
 `Development , Maintainence , Bot Updates , Development , Features Enhancement , Plugin Debbuging`
 
@@ -171,9 +167,9 @@ NOW Deploy👇
 - **Join Our Support Group:**
  <p align="center">
    
-  ## ``Support Group``
+  ## ``Support Channel``
    
-   [![WHATSAPP](https://img.shields.io/badge/Support%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]( https://chat.whatsapp.com/Lda5nx04JZJJsKsibu0KFR)
+   [![WHATSAPP](https://img.shields.io/badge/Support%20channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]( https://whatsapp.com/channel/0029VacpEdXIt5rqKLB9nC1L)
 
 <a aria-label="Join our chats" href="https://wa.me/233530729233?text=Hi!! Bryanttech Sir, I need Your Help" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
