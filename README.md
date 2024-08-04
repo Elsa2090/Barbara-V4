@@ -1,19 +1,13 @@
-# `BRYANT-MD-V2`
+# `BARBARA-V4-BUG-BOT`
 <br>
 <br>
 
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=Its%20BRYANT-MD-V2;%20Multi-Device%20WhatsApp%20Bot;%20Developed%20By%20BRYANT%20TECH)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=ff0000&center=true&width=900&height=100&lines=𝗜𝗧𝗦%20𝗕𝗔𝗥𝗕𝗔𝗥𝗔-𝗩𝟰-𝗕𝗨𝗚%20𝗕𝗢𝗧;%20𝗗𝗔𝗡𝗚𝗘𝗥𝗢𝗨𝗦-𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣%20𝗕𝗨𝗚%20𝗕𝗢𝗧;𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗗%20𝗕𝗬%20𝗕𝗥𝗬𝗔𝗡𝗧%20𝗧𝗘𝗖𝗛)
 <p align="center">
-  
->BRYANT-MD-V2 is based on :
->- [XLICON-V2-BOT](https://github.com/salmanytofficial/XLICON-V2-MD) by [SALMAN & ABRAHAM](https://github.com/salmanytofficial) (License: Apache License 2.0)
->
-> :octocat: Don't forget to check out! :point_right: [BRYANT-MD](https://github.com/Elsa2090/Bryant-md)
-</p>
 
 ## 🌟 `Bot Intro and Features`
-[![BRYANT-MD-V2](https://i.imgur.com/bWfDDEU.jpg)](https://youtu.be/WcA7GZuaN0A)
+[![BARBARA-BUG-V4]()](https://youtu.be/WcA7GZuaN0A)
 
 ### ℹ️ **About BRYANT-MD-V2**
 BRYANT-MD-V2 is a versatile Multi-Device WhatsApp bot developed by [BRYANT-MD](https://github.com/Elsa2090). It offers a wide range of features, making it an advanced and user-friendly bot for various purposes.
