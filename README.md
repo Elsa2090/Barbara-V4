@@ -151,8 +151,8 @@ NOW Deploy👇
 ## `CREDITS` 
 <div><button id="boton" type="button">Baileys - By WhiskeySockets & adiwajshing</button></div>
 <a href="https://github.com/WhiskeySockets/Baileys"><img src="https://github.com/WhiskeySockets.png" width="150" height="150" alt="adiwajshing"/></a>
-<div><button id="boton" type="button">Base  - By SALMAN</button></div>
-<a href="https://github.com/salmanytofficial"><img src="https://github.com/salmanytofficial.png" width="150" height="150" alt="SALMAN"/></a>
+<div><button id="boton" type="button">Base  - BY BRYANT TECH</button></div>
+<a href="https://github.com/Elsa2090"><img src="https://github.com/Elsa2090.png" width="150" height="150" alt="BRYANT TECH"/></a>
 
 ## `OWNER` 
 <a href="https://github.com/Elsa2090"><img src="https://github.com/Elsa2090.png" width="250" height="250" alt="BRYANT-TECH"/></a>
@@ -175,7 +175,7 @@ NOW Deploy👇
     <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
-- **Patron Support:** [`Support Me On Patreon ☕ `](https://www.patreon.com/ahmmikun/membership)
+- **Patron Support:** [`Support Me On Patreon ☕ `](https://www.patreon.com/Bryanttech/membership)
 
 <p align="left">
 Click On The Link To Donate ME...
@@ -192,9 +192,9 @@ Click On The Link To Donate ME...
 Misusing the bot may result in a ban from WhatsApp. Use at your own risk.
 
 ## 🙌 `Bot Developers and Contributors`
-| [![Mzn King](https://github.com/mznking.png)](https://github.com/mznking) | [![BRYAN-TECH](https://github.com/Elsa2090.png)](https://github.com/Elsa2090.) | [![Maher Zubair](https://github.com/Maher-Zubair.png)](https://github.com/Maher-Zubair) | [![VENOX](https://github.com/V-E-N-O-X.png)](https://github.com/V-E-N-O-X) | [![Bryan-tech](https://github.com/Bryanlover1.png)](https://github.com/Bryanlover1) |
+| [![BRYANT TECH](https://github.com/Elsa2090.png)](https://github.com/Elsa2090) | [![ |
 | -------------------------------------------------------- | -------------------------------------------------- | ----------------------------------------------------------- | ---------------------------------------------- | ---------------------------------------------------- |
-| **Bryant Tech**<br>`Contributor`<br>`Bot Developer`<br>`Bot Testing`<br>`Bot creator`<br>`Bryant-md Web` | **Bryan Tech**<br>`Contributor`<br>`Feature Testing` |**Maher Zubair**<br>`Contributor`<br>`Bot Testing` | **Syntax king**<br>`Contributor`<br>`Bot Testing` |
+| **Bryant Tech**<br>`Contributor`<br>`Bot Developer`<br>`Bot Testing`<br>`Bot creator` | 
 
 ## 📊 `GitHub Stats of Bot Contributors`
 [![Bryant tech's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elsa2090&show_icons=true&theme=radical)](https://github.com/Elsa2090)
