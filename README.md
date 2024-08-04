@@ -49,13 +49,13 @@ Thanks for the star! 🚀
     <br>
 <a href='https://github.com/Elsa2090/Barbara-v4/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
     <br>
-2. Get Session ID (SERVER 1) NOT WORKING USE THE SECOND ONE
+2. Get Session ID (Pairing code)
     <br>
-<a href='https://barbara-session-id.vercel.app' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://barbara-session-id.vercel.app/qr.html' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
     <br>
-2. Get Session ID (SERVER 2)
+2. Get Session ID (Pairing)
     <br>
-<a href='https://replit.com/@mznking04/XLICON-PAIR-CODE' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id_2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://barbara-session-id.vercel.app/pair.html' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id_2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
     <br>
 
 ## 🚀 `Deployments`
