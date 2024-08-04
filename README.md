@@ -51,11 +51,11 @@ Thanks for the star! 🚀
     <br>
 2. Get Session ID (Pairing code)
     <br>
-<a href='https://barbara-session-id.vercel.app/qr.html' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://barbara-session-id.vercel.app/code.html' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
     <br>
-2. Get Session ID (Pairing)
+2. Get Session ID (QR CODE)
     <br>
-<a href='https://barbara-session-id.vercel.app/pair.html' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id_2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://barbara-session-id.vercel.app/qr.html' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id_2-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
     <br>
 
 ## 🚀 `Deployments`
