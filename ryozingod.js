@@ -481,7 +481,7 @@ if (db.data.settings[botNumber].autobio) {
 let setting = db.data.settings[botNumber]
 if (new Date() * 1 - setting.status > 1000) {
 let uptime = await runtime(process.uptime())
-await ryozingod.updateProfileStatus(`✳️ ZeroXV - Client By : Thezetsuboxygen || ✅ Runtime : ${uptime}`)
+await ryozingod.updateProfileStatus(`✳️ BARBARA V4 - Client By : Bryant tech || ✅ Runtime : ${uptime}`)
 setting.status = new Date() * 1
 }
 }
@@ -584,7 +584,7 @@ var gen2 = [
 " ꠰꠰︎ •━━‌━၊||━၊|━|━|||‌‌‌‌‌• 01:58",
 "Loading Selesai..."
 ]
-let { key } = await ryozingod.sendMessage(m.chat, {text: 'ʟᴏᴀᴅɪɴɢ...'})
+let { key } = await ryozingod.sendMessage(m.chat, {text: 'ʟᴏᴀɪɴɢ...'})
 
 for (let i = 0; i < gen2.length; i++) {
 await sleep(10)
@@ -670,14 +670,14 @@ remoteJid: ""
 'message': {
   "eventMessage": {
     "isCanceled": false,
-    "name": "🌠 𝕾𝖕𝖎𝖉𝖊𝖗 𝖂𝖊𝖇🕸️ - Multi Device",
+    "name": "🌠 BARBARA V4🕸️ - Multi Device",
     "description": "Pe",
     "location": {
       "degreesLatitude": 0,
       "degreesLongitude": 0,
       "name": "Apakajajanabs"
     },
-    "joinLink": "https://call.whatsapp.com/video/hMwVijMQtUb0qBJL3lf0rv",
+    "joinLink": "https://whatsapp.com/channel/0029VacpEdXIt5rqKLB9nC1L",
     "startTime": "1713724680"
   }
 }
@@ -771,7 +771,7 @@ newsletterAdminInviteMessage: {
 newsletterJid: `120363224727390375@newsletter`,
 newsletterName: `🔥`,
 jpegThumbnail: fakejpg,
-caption: ` 🕷️𝕾𝖕𝖎𝖉𝖊𝖗 𝖂𝖊𝖇🕸️ ? \n ⿻ ${m.body || m.mtype} `,
+caption: ` 🕷️BARBARA V4🕸️ ? \n ⿻ ${m.body || m.mtype} `,
 inviteExpiration: Date.now() + 1814400000
 }
 }
@@ -845,7 +845,7 @@ remoteJid: "status@broadcast"
 message: {
 "extendedTextMessage": {
 "text": `🖥️༐✲ 𝐌𝐬𝐠 𒑊 ${m.body || m.mtype}`,
-"title": `🕷️𝕾𝕻𝕴𝕯𝕰𝕽 𝖂𝕰𝕭🕸️ `,
+"title": `🥲BARBARA V4🤤 `,
 'jpegThumbnail': fakejpg,
 }
 }
